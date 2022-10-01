@@ -1,0 +1,18 @@
+[01/Oct/2022 13:19:28] "GET / HTTP/1.1" 302 0
+[01/Oct/2022 13:19:28] "GET /todos HTTP/1.1" 301 0
+[01/Oct/2022 13:19:29] "GET /todos/ HTTP/1.1" 200 4106
+[01/Oct/2022 13:19:29] "GET /static/css/style.css HTTP/1.1" 200 225
+Not Found: /favicon.ico
+[01/Oct/2022 13:19:29] "GET /favicon.ico HTTP/1.1" 404 2435
+[01/Oct/2022 13:19:36] "POST /todos/22/update HTTP/1.1" 302 0
+[01/Oct/2022 13:19:37] "GET /todos/ HTTP/1.1" 200 4143
+[01/Oct/2022 13:19:52] "POST /todos/add/ HTTP/1.1" 302 0
+[01/Oct/2022 13:19:52] "GET /todos/ HTTP/1.1" 200 4742
+[01/Oct/2022 13:19:52] "GET /static/css/style.css HTTP/1.1" 304 0
+[01/Oct/2022 13:20:02] "GET /todos/2/delete HTTP/1.1" 302 0
+[01/Oct/2022 13:20:02] "GET /todos/ HTTP/1.1" 200 4150
+[01/Oct/2022 13:20:26] "POST /todos/add/ HTTP/1.1" 302 0
+[01/Oct/2022 13:20:26] "GET /todos/ HTTP/1.1" 200 4741
+[01/Oct/2022 13:20:26] "GET /static/css/style.css HTTP/1.1" 304 0
+[01/Oct/2022 13:21:07] "GET /todos/ HTTP/1.1" 200 4741
+[01/Oct/2022 13:21:08] "GET /static/css/style.css HTTP/1.1" 304 0
